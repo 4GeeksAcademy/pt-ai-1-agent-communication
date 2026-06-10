@@ -1,1 +1,1 @@
-# Bigger App Structure
+# Night Sky Tracker

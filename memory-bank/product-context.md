@@ -1,18 +1,19 @@
 # Product Context
 
 ## Overview
-Football Tracker is going be a quick mobile reference tool for fans of football so they can see details about their teams in the upcoming World Cup.
+Night Sky Tracker is an application that takes a user's position and gives them a list of interesting things to see in the sky.
 
 ## Key Features
-- Keep track of favorite teams: scores, wins/losses, upcoming matches
-- Keep track of favorite footballers: Recent highlights, news
-- Compare teams: match history, recent win rate
-- Get notifications for upcoming matches
-- Easy social media sharing for key events, especially to Bluesky (the sports app.)
+- Displays sunset/sunrise times based on user location.
+- Lists near-earth objects that may be observable by users.
+- Lists stellar phenomena that a user might want to watch.
+- Tells the user what direction to look at what time for celestial events.
+- Finds nearby places for users to go to watch the stars with less light pollution.
 
 ## User Personas
-- **Straightforward Steve**: Just wants to keep up with their favorite team and players.
-- **Megafan Mark**: Wants to know everything about their team, down to every precise stat they can get their hands on.
+- **Starwatcher Steve**: Just wants to go out into his backyard and look at the stars.
+- **Telescope Tyler**: Has a high-powered telescope with an automated aiming system, and wants to watch near earth objects.
+- **Photographer Pam**: Pam wants to know about cool celestial events that she can catch on camera.
 
 ## Success Metrics
 - Daily active users (DAU) > 1000
