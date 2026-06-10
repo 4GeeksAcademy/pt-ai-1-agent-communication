@@ -1,5 +1,5 @@
 # Architecture
-- Frontend: NextJS with Typescript
+- Frontend: NextJS with Typescript and TailwindCSS
 - Backend: FastAPI with SQLModel
 - Database: Postgres hosted on Neon.tech
 - Auth: JWT based auth
